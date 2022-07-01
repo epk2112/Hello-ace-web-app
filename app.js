@@ -1,9 +1,9 @@
 const app = Vue.createApp({
     data() {
         return {
-            appname: 'Hello Aced!',
-            ballance: "3,654.00",
-            location: "Zanzibar,TZ",
+            appname: 'Hello Ace Investing',
+            ballance: "5,000.00",
+            location: "Mwanza,TZ",
             visitors: 2558,
             billednumber: 344     
         }
