@@ -10,7 +10,7 @@ const app = Vue.createApp({
     },
     methods: {
         changeOnline() {
-            this.visitors = this.visitors + 157;
+            this.visitors = this.visitors + 159;
         }
     }
 });
